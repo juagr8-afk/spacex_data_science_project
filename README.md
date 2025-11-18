@@ -35,7 +35,7 @@ The repository contains a **comprehensive PDF** with full explanations, graphs, 
 
 ## Technologies Used
 
-- Python 3.x  
+- Python 3.8
 - Pandas, NumPy, Matplotlib, Seaborn  
 - Scikit-learn  
 - Dash  
