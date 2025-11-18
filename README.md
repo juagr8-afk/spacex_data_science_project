@@ -9,7 +9,7 @@ The repository contains a **comprehensive PDF** with full explanations, graphs, 
 ## Project Contents
 
 ### 1. Full Project Explanation
-- `SpaceX_Project.pdf`  
+- `capstone_applied_data_science.pdf`  
   Detailed documentation covering:
   - Exploratory Data Analysis (EDA)
   - EDA with SQL
