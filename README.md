@@ -1,5 +1,5 @@
 # SpaceX Project
-<img width="659" height="577" alt="image" src="https://github.com/user-attachments/assets/2a34352b-4478-4d50-855f-971bd31b15fc" />
+<img width="65.9" height="57.7" alt="image" src="https://github.com/user-attachments/assets/2a34352b-4478-4d50-855f-971bd31b15fc" />
 
 This project analyzes SpaceX data and applies a range of techniques including **Exploratory Data Analysis (EDA)**, **data wrangling**, **web scraping**, **machine learning**, and interactive visualization using **Dash** and **Folium**.
 
