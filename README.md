@@ -10,7 +10,7 @@ The repository contains a **comprehensive PDF** with full explanations, graphs, 
 
 ### 1. Full Project Explanation
 - `1_capstone-applied-data-science.pdf`  
-  Detailed documentation covering:
+  Documentation covering:
   - Exploratory Data Analysis (EDA)
   - EDA with SQL
   - Data cleaning and transformation (Data Wrangling)
